@@ -3,7 +3,7 @@
 How to Youtube
 
 @package	How to Youtube
-@author		Team 'youth, come back' (ÀşÀ½¾Æ µ¹¾Æ¿ÍÁ¶)
+@author		Team 'youth, come back' (ì ŠìŒì•„ ëŒì•„ì™€ì¡°)
 @license		GPL v3
 @link		http://erica.dothome.co.kr
 @Copyright (C) 2018  Team 'youth, come back'
