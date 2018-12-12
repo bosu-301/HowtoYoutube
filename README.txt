@@ -19,7 +19,7 @@ Component:	Revive Old Posts (Former Tweet Old Post)		https://revive.social/
 		Sassy Social Share					https://www.heateor.com
 		Slanted						        http://alxmedia.se/themes/slanted/
 
-라이센스 추가 설명서 : http://erica.dothome.co.kr/archives/77
+About License issue : http://erica.dothome.co.kr/archives/77
 Apache License : https://www.apache.org/licenses/LICENSE-2.0
 PHP License : http://php.net/license/3_01.txt
 GPL 3.0 License : https://www.gnu.org/licenses/gpl-3.0.en.html
